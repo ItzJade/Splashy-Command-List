@@ -1,26 +1,3 @@
-# Templates
-### Embed Template
-```
-Template Goes Here
-```
-
-
-### Embed with Dropdown Menu
-```
-Template Goes Here
-```
-
-### Embed With Button Feature
-```
-Template Goes Here
-```
-
-
-### Command Template
-```
-Template Goes Here
-```
-
 # Todo
 ### Main Systems
 - [x] Core
